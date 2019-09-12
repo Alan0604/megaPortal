@@ -367,3 +367,13 @@ body{
     width: 384px;
     font-size: 30px;
 }
+
+@media only screen and (max-width:906px){
+    .topoint,
+    .topo2int,
+    .menuint,
+    .ultimanoticias,
+    .containerint{
+        max-height: 768px;
+    }
+}
